@@ -59,9 +59,9 @@ Customers with lower spending and relatively lower purchase frequency.
 
 ## Project Outcome
 
+The project helps identify different customer groups and understand their purchasing behavior. These insights can support businesses in developing targeted marketing strategies and improving customer engagement.
 
 ## Author
 
 Baumika Ramanathan
 
-The project helps identify different customer groups and understand their purchasing behavior. These insights can support businesses in developing targeted marketing strategies and improving customer engagement.
