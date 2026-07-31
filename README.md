@@ -61,6 +61,24 @@ Customers with lower spending and relatively lower purchase frequency.
 
 The project helps identify different customer groups and understand their purchasing behavior. These insights can support businesses in developing targeted marketing strategies and improving customer engagement.
 
+## Power BI Dashboard Screenshots
+
+### Page 1 – Customer Segmentation Dashboard
+![Page 1](2img1.jpeg)
+
+### Page 2 – Customer Segment Distribution
+![Page 2](2img2.jpeg)
+
+### Page 3 – Average Spending by Customer Segment
+![Page 3](2img3.jpeg)
+
+### Page 4 – Average Purchase Frequency by Customer Segment
+![Page 4](2img4.jpeg)
+
+### Page 5 – Customer Distribution by Gender
+![Page 5](2img5.jpeg)
+
+
 ## Author
 
 Baumika Ramanathan
